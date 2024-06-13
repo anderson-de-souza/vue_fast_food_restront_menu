@@ -1,0 +1,48 @@
+[
+    {
+        "foodName": "Hamburger",
+        "foodImageSource": "@/assets/pexels-robinstickel-70497.jpg",
+        "foodPrice": "$954.43"
+    },
+    {
+        "foodName": "Strawberry Juice",
+        "foodImageSource": "@/assets/pexels-ali-ramazan-ciftci-82252581-13059887.jpg",
+        "foodPrice": "$92.43"
+    },
+    {
+        "foodName": "Four Cheese Pizza",
+        "foodImageSource": "@/assets/pexels-pablo-macedo-287472-845798.jpg",
+        "foodPrice": "$1237.43"
+    },
+    {
+        "foodName": "Pepperoni Pizza",
+        "foodImageSource": "@/assets/pexels-pablo-macedo-287472-845808.jpg",
+        "foodPrice": "$1654.43"
+    },
+    {
+        "foodName": "Pepsi",
+        "foodImageSource": "@/assets/pexels-vladimir-11659356.jpg",
+        "foodPrice": "$6557.43"
+    },
+    {
+        "foodName": "Hot Dog",
+        "foodImageSource": "@/assets/pexels-rajesh-tp-749235-1603901.jpg",
+        "foodPrice": "$567.43"
+    },
+    {
+        "foodName": "Orange Juice",
+        "foodImageSource": "@/assets/pexels-isabella-mendes-107313-338713.jpg",
+        "foodPrice": "$9864.43"
+    },
+    {
+        "foodName": "Normal Pizza",
+        "foodImageSource": "@/assets/pexels-brettjordan-825661.jpg",
+        "foodPrice": "$1654.43"
+    },
+    {
+        "foodName": "Coca-Cola",
+        "foodImageSource": "@/assets/pexels-jonathanborba-2983100.jpg",
+        "foodPrice": "$6557.43"
+    }
+    
+]
