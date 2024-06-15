@@ -2,9 +2,9 @@
 <template>
     <div class="card">
         <img :src="foodImageSource">
-        <div>
-            <h2>{{ foodName }}</h2>
-            <h3>{{ foodPrice }}</h3>
+        <div class="info">
+            <h2 class="text">{{ foodName }}</h2>
+            <h3 class="text">{{ foodPrice }}</h3>
         </div>
     </div>
 </template>
@@ -23,22 +23,38 @@
 <style scoped>
 
     .card {
-        width: 300px;
-        min-width: 300px;
-        min-height: 380px;
-        background-color: antiquewhite;
-        display: flex;
-        align-items: end;
-        justify-content: end;
+        width: 100%;
+        height: 420px;
         position: relative;
+        border-radius: 16px;
+        overflow: hidden;
     }
 
     img {
-        position: absolute;
         width: 100%;
         height: 100%;
-        max-width: 100%;
-        max-height: 100%;
     }
 
+    .info {
+        padding: 10px;
+        background-color: rgba(0, 0, 0, 0.4);
+        position: absolute;
+        left: 0;
+        bottom: 0;
+    }
+
+    .text {
+        background-color: rgba(0, 0, 0, 0);
+        color: aliceblue;
+    }
+
+    .info:hover {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    
 </style>

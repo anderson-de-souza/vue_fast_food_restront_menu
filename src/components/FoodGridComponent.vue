@@ -1,9 +1,7 @@
 
 <template>
     <section>
-        <div>
-            <slot></slot>
-        </div>
+        <slot></slot>
     </section>
 </template>
 
@@ -16,22 +14,12 @@
 <style scoped>
 
     section {
-        width: 100vw;
-        min-height: 980px;
-        background-color: black;
-    }
-
-
-    div {
-        width: 80%;
-        min-height: 100%;
+        max-width: 1200px;
         margin: 0 auto;
-    }
-
-    slot {
-        min-width: 100%;
-        min-height: 100%;
+        padding: 0 24px;
         display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 16px;
     }
-
+    
 </style>

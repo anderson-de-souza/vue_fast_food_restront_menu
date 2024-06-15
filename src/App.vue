@@ -42,10 +42,15 @@
 </script>
 
 <style>
+
     * {
       margin: 0;
       padding: 0;
       box-sizing: border-box;
       font-family: Arial, Helvetica, sans-serif;
+      max-width: 100%;
+      max-height: 100%;
+      background-color: burlywood;
     }
+
 </style>

@@ -35,31 +35,38 @@
 <style scoped>
 
     header {
-        width: 100vw;
-        min-height: 128px;
-        background-color: black;
-        color: gold;
+        max-width: 1200px;
+        height: 180px;
+        margin: 0 auto;
+        padding: 0 24px;
         display: flex;
+        justify-content: space-between;
         align-items: center;
-        justify-content: space-around;
         flex-wrap: wrap;
     }
 
+    h1 {
+        color: brown;
+        font-size: 2.25rem;
+    }
+
     ul {
-        min-width: 350px;
+        min-width: 380px;
         list-style: none;
         display: flex;
-        align-items: center;
         justify-content: space-between;
     }
 
-    a:hover {
-        text-decoration: underline;
+    a {
+        color: brown;
+        font-size: 1.25rem;
+        text-decoration: none;
+        font-weight: bold;
     }
 
-    a {
-        text-decoration: none;
-        color: gold;
+    a:hover {
+        color: black;
+        text-decoration: underline;
     }
 
 </style>
