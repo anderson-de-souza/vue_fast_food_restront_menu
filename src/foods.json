@@ -2,51 +2,51 @@
     {
         "foodName": "Hamburger",
         "foodImageSource": "https://anderson-de-souza.github.io/vue_fast_food_restront_menu/src/assets/img/hamburguer.jpg",
-        "foodPrice": "$954.43"
+        "foodPrice": "$14.00"
     },
     {
         "foodName": "Strawberry Juice",
         "foodImageSource": "https://anderson-de-souza.github.io/vue_fast_food_restront_menu/src/assets/img/strawbarry-juice.jpg",
-        "foodPrice": "$92.43"
+        "foodPrice": "$4.00"
     },
     {
         "foodName": "Four Cheese Pizza",
         "foodImageSource": "https://anderson-de-souza.github.io/vue_fast_food_restront_menu/src/assets/img/four-cheese-pizza.jpg",
-        "foodPrice": "$1237.43"
+        "foodPrice": "$25.00"
     },
     {
         "foodName": "Pepperoni Pizza",
         "foodImageSource": "https://anderson-de-souza.github.io/vue_fast_food_restront_menu/src/assets/img/pepperoni-pizza.jpg",
-        "foodPrice": "$1654.43"
+        "foodPrice": "$22.00"
     },
     {
         "foodName": "Pepsi",
         "foodImageSource": "https://anderson-de-souza.github.io/vue_fast_food_restront_menu/src/assets/img/pepsi.jpg",
-        "foodPrice": "$6557.43"
+        "foodPrice": "$7.00"
     },
     {
         "foodName": "Hot Dog",
         "foodImageSource": "https://anderson-de-souza.github.io/vue_fast_food_restront_menu/src/assets/img/hot-dog.jpg",
-        "foodPrice": "$567.43"
+        "foodPrice": "$12.00"
     },
     {
         "foodName": "Orange Juice",
         "foodImageSource": "https://anderson-de-souza.github.io/vue_fast_food_restront_menu/src/assets/img/orange-juice.jpg",
-        "foodPrice": "$9864.43"
+        "foodPrice": "$4.00"
     },
     {
         "foodName": "Normal Pizza",
         "foodImageSource": "https://anderson-de-souza.github.io/vue_fast_food_restront_menu/src/assets/img/normal-pizza.jpg",
-        "foodPrice": "$1654.43"
+        "foodPrice": "$29.00"
     },
     {
         "foodName": "Coca-Cola",
         "foodImageSource": "https://anderson-de-souza.github.io/vue_fast_food_restront_menu/src/assets/img/coca-cola.jpg",
-        "foodPrice": "$6557.43"
+        "foodPrice": "$7.00"
     },
     {
         "foodName": "X-Burguer",
         "foodImageSource": "https://anderson-de-souza.github.io/vue_fast_food_restront_menu/src/assets/img/x-burguer.jpg",
-        "foodPrice": "$6557.43"
+        "foodPrice": "$17.00"
     }
 ]
